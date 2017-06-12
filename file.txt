@@ -1,0 +1,7 @@
+rebasing check 
+line 2
+line 3
+line 4 is large
+line 5 is shorter
+line 6 went to meet line 7
+line 8 came in between
